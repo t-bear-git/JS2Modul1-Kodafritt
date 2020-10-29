@@ -54,4 +54,11 @@ body {
 
 .first-p {
   text-align: center;
+  font-size: 14px;
+}
+
+ul {
+  font-size: 20px;
+  margin: 20px auto;
+  padding-top: 80px;
 }
