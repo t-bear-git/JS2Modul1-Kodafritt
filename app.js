@@ -70,7 +70,7 @@ function maleBirthyear(x) {
 function populateList() {
   numberOfArrItems = maleArr.length;
   for (i = 0; i < numberOfArrItems; ++i) {
-    // create an item for each one
+    // create a <li> for each item in array
     listItem = document.createElement('li');
 
     // Add the item text
